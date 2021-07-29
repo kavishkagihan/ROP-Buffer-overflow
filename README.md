@@ -7,7 +7,7 @@ This is a basic ROP based Buffer Overflow attack scenario. You can compile the v
 
 `gcc -m64 -no-pie -fno-stack-protector -static vuln.c -o bof`
 
-# Explanation
+# Explaination
 
 If you get lost, refer this articel where I talk about what ROP is and the way of exploiting it.
 
@@ -18,4 +18,4 @@ https://kavigihan.medium.com/rop-attacks-via-buffer-overflow-using-pwntools-part
 
 Email - iamkavigihan@gmail.com
 
-Instagram - @_kavi.gihan
+Instagram - https://www.instagram.com/_kavi.gihan/
