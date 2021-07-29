@@ -3,7 +3,7 @@ Exploiting a buffer overflow vulnerability with ROP chains.
 
 # Description
 
-This is a basic ROP based Buffer Overflow attack scenario. You can compile the vuln.c with gcc as below and start your attack.
+This is a basic ROP based Buffer Overflow attack scenario. You can compile the vuln.c with gcc as below.
 
 `gcc -m64 -no-pie -fno-stack-protector -static vuln.c -o bof`
 
